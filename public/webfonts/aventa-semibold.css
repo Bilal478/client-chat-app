@@ -1,0 +1,27 @@
+/*
+Font: 		Aventa
+Style: 		SemiBold
+URL: 		https://www.youworkforthem.com/font/T12173/aventa-variable-typeface
+Foundry: 	Ellen Luff
+Foundry: 	https://www.youworkforthem.com/designer/1024/ellen-luff
+Copyright:	Copyright © 2020 by Tom Anders Watkins & Ellen Luff. All rights reserved.
+Version: 	17
+Created:	May 28, 2020
+License: 	https://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'Aventa-SemiBold';
+	src: url('aventa-semibold.eot');
+	src: url('aventa-semibold.eot?#iefix') format('embedded-opentype'),
+             url('aventa-semibold.woff2') format('woff2'),
+	     url('aventa-semibold.woff') format('woff'),
+	     url('aventa-semibold.ttf') format('truetype'),
+	     url('aventa-semibold.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
